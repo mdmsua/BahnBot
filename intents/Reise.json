@@ -1,0 +1,125 @@
+{
+  "id": "6106c5d1-8166-4b14-87c7-7f8cd9354072",
+  "name": "Reise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "trip",
+      "affectedContexts": [
+        {
+          "name": "trip",
+          "lifespan": 5
+        },
+        {
+          "name": "Reise-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "83c8ec0a-8664-461a-b52e-f15fcb0ead4f",
+          "name": "from",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "value": "$from",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Woher willst du reisen?"
+            },
+            {
+              "lang": "de",
+              "value": "Von welscher Stadt willst du anfangen?"
+            },
+            {
+              "lang": "de",
+              "value": "Wo beginnt deine Fahrt?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "cdf71631-7f50-444a-8d00-8ab6656f67b5",
+          "name": "to",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "value": "$to",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Wohin willst du reisen?"
+            },
+            {
+              "lang": "de",
+              "value": "Nach welcher Stadt willst du?"
+            },
+            {
+              "lang": "de",
+              "value": "Wo endet deine Fahrt?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1acf462c-8f14-444b-833c-469a0f3fa116",
+          "name": "when",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$when",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Wann willst du reisen?"
+            },
+            {
+              "lang": "de",
+              "value": "Wann findet deine Reise statt?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5dc71eb3-9e78-458f-b70b-0fd6f7ca259a",
+          "name": "how",
+          "required": false,
+          "dataType": "@option",
+          "value": "$how",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

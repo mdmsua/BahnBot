@@ -1,0 +1,43 @@
+{
+  "id": "5d54b20f-e065-4a83-bf0d-dcc40ab2edc8",
+  "parentId": "6106c5d1-8166-4b14-87c7-7f8cd9354072",
+  "rootParentId": "6106c5d1-8166-4b14-87c7-7f8cd9354072",
+  "name": "Auskunft: Nein",
+  "auto": true,
+  "contexts": [
+    "Reise-followup",
+    "trip"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "OK. Gute Fahrt dann!",
+            "OK. Dann schöne Reise!",
+            "Alles klar. Ich wünsche dir eine angenehme Reise!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

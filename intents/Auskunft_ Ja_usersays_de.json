@@ -1,0 +1,132 @@
+[
+  {
+    "id": "9a2b6cd9-0240-4a61-b5f7-89defd131336",
+    "data": [
+      {
+        "text": "ist mir egal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8cad8ed6-6858-46f4-ab9e-eadba2b53e6f",
+    "data": [
+      {
+        "text": "genau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f2ac45ff-2a67-4bec-9457-3234c733bdd3",
+    "data": [
+      {
+        "text": "ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d4bc74cc-cda1-4f03-919b-2dc295209842",
+    "data": [
+      {
+        "text": "natürlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ce704156-630d-46c9-b64f-9a5702b99804",
+    "data": [
+      {
+        "text": "klingt gut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2be5d004-7183-4cd6-97e3-a2d12da8fd2a",
+    "data": [
+      {
+        "text": "mach das",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7d9a9125-f07b-48a8-80cc-0539370b4d6e",
+    "data": [
+      {
+        "text": "bestätigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "03651a54-156a-4657-bd55-3b3b9aff390b",
+    "data": [
+      {
+        "text": "einverstanden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c4b89a7c-5261-4f39-9235-e122c3ebbf15",
+    "data": [
+      {
+        "text": "das ist richtig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "76bb8974-7885-4acc-a724-1ad6e268e884",
+    "data": [
+      {
+        "text": "klar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  }
+]

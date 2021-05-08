@@ -1,0 +1,810 @@
+[
+  {
+    "id": "df536a8c-f276-4a85-8ca6-2fbf45c20ee0",
+    "data": [
+      {
+        "text": "Ich will ",
+        "userDefined": false
+      },
+      {
+        "text": "morgen um 14",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": false
+      },
+      {
+        "text": " Uhr von ",
+        "userDefined": false
+      },
+      {
+        "text": "Ravensburg",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Dachau",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Nahverkehr",
+        "meta": "@option",
+        "alias": "how",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4573712e-75b4-49fd-983e-2b91a64e36c2",
+    "data": [
+      {
+        "text": "Ich möchte gerne von ",
+        "userDefined": false
+      },
+      {
+        "text": "Bamberg",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Regensburg",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Nahverkehr",
+        "meta": "@option",
+        "alias": "how",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ab9bfefe-34a2-4196-9f58-627e0dbfce7e",
+    "data": [
+      {
+        "text": "Finde ",
+        "userDefined": false
+      },
+      {
+        "text": "regionale",
+        "meta": "@option",
+        "alias": "how",
+        "userDefined": true
+      },
+      {
+        "text": " Fahrt von ",
+        "userDefined": false
+      },
+      {
+        "text": "Passau",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Lindau",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "am 24. Dezember 2018",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "02951c5f-b27d-4d07-9a17-fa5a49e38a34",
+    "data": [
+      {
+        "text": "Schnellstmöglich",
+        "meta": "@option",
+        "alias": "how",
+        "userDefined": true
+      },
+      {
+        "text": " von ",
+        "userDefined": false
+      },
+      {
+        "text": "München",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": true
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3c802188-0a96-434c-b471-f5f9b3a8be13",
+    "data": [
+      {
+        "text": "Schnellste",
+        "meta": "@option",
+        "alias": "how",
+        "userDefined": true
+      },
+      {
+        "text": " Verbindung zwischen ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": true
+      },
+      {
+        "text": " und ",
+        "userDefined": false
+      },
+      {
+        "text": "Lindau",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "05a9963a-e703-4ef9-b7c7-429152cdbe8c",
+    "data": [
+      {
+        "text": "München",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Lindau",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " am ",
+        "userDefined": false
+      },
+      {
+        "text": "Samstag um 8",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " Uhr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b02e89e9-4576-441a-b5d7-2af79d825cff",
+    "data": [
+      {
+        "text": "Ich will von ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Hamburg",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morgen um 10:00",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f128d2f3-671b-4b15-bad8-ae9c1885edab",
+    "data": [
+      {
+        "text": "Verbindung zwischen ",
+        "userDefined": false
+      },
+      {
+        "text": "Lindau",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " und ",
+        "userDefined": false
+      },
+      {
+        "text": "Passau",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "übermorgen",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " um ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " Uhr ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5d80b336-2cc2-4b07-893b-aafa3b89c47f",
+    "data": [
+      {
+        "text": "Ich will von ",
+        "userDefined": false
+      },
+      {
+        "text": "München",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heute",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " um ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " Uhr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5ad6913f-fb5c-4d25-942f-fcd1a392e5da",
+    "data": [
+      {
+        "text": "Nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Lindau",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " aus ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nächsten Sonntag",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " um ",
+        "userDefined": false
+      },
+      {
+        "text": "8:30",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b33b88e6-f5ff-46b6-bf00-68bfca6d6370",
+    "data": [
+      {
+        "text": "Von ",
+        "userDefined": false
+      },
+      {
+        "text": "München",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Augsburg",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morgen",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " um ",
+        "userDefined": false
+      },
+      {
+        "text": "7:40",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9e03b46f-7890-459f-a22a-3cf0c4d819de",
+    "data": [
+      {
+        "text": "Reise von ",
+        "userDefined": false
+      },
+      {
+        "text": "Nürnberg",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Dortmund",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " am ",
+        "userDefined": false
+      },
+      {
+        "text": "1. September",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " um ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " Uhr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "aca7a4a2-4d15-44af-9065-f097a1ccf749",
+    "data": [
+      {
+        "text": "Von ",
+        "userDefined": false
+      },
+      {
+        "text": "München",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Augsburg",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 5 Tagen",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " um ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " Uhr ",
+        "userDefined": false
+      },
+      {
+        "text": "40",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "99177a05-8ebd-497c-be57-baa0ee9e774d",
+    "data": [
+      {
+        "text": "Ich möchte ",
+        "userDefined": false
+      },
+      {
+        "text": "heute",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " von ",
+        "userDefined": false
+      },
+      {
+        "text": "München",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": true
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Passau",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4847ec77-f613-49df-bc2e-4f810069d46b",
+    "data": [
+      {
+        "text": "Zug",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " von ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Ulm",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morgen",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " um ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " Uhr ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f2a49dff-422c-4074-8cb0-625aa5b6d328",
+    "data": [
+      {
+        "text": "Finde eine Reise von ",
+        "userDefined": false
+      },
+      {
+        "text": "Dortmund",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Stuttgart",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heute",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " um ",
+        "userDefined": false
+      },
+      {
+        "text": "18:30",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d87a2630-60a4-4c41-b1e2-265143c3ab6f",
+    "data": [
+      {
+        "text": "Frankfurt",
+        "meta": "@sys.geo-city",
+        "alias": "from",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "meta": "@sys.geo-city",
+        "alias": "to",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morgen",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " um ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.date-time",
+        "alias": "when",
+        "userDefined": true
+      },
+      {
+        "text": " Uhr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "33d5bd46-18e4-4ad5-9fa2-16c84eeeda81",
+    "data": [
+      {
+        "text": "das möchte ich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7b767793-77f4-4943-ad4f-3db1100e22e1",
+    "data": [
+      {
+        "text": "nein",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cbc840f5-d58e-4c93-8f78-3e9c543d2196",
+    "data": [
+      {
+        "text": "kein Interesse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b8fdcb36-d086-4e3a-a1df-62e429314a18",
+    "data": [
+      {
+        "text": "auf keinen Fall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "84b73826-f20f-49b1-9239-5dd6e5ed9242",
+    "data": [
+      {
+        "text": "eigentlich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8a66f610-8a6c-4a67-8004-62fafb9bfd44",
+    "data": [
+      {
+        "text": "ich denke nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "08a8dc95-58fa-46b7-8c34-b40ebedda275",
+    "data": [
+      {
+        "text": "nein danke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "05b87e35-b793-4a51-a71c-bf55ec2f1d24",
+    "data": [
+      {
+        "text": "ich bin nicht einverstanden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "088939f2-7086-40f7-b58b-68f06e84510f",
+    "data": [
+      {
+        "text": "mach das nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]
